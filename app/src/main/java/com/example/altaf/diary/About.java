@@ -48,7 +48,7 @@ public class About extends AppCompatActivity {
 
 
 
-        textView.setText("Version 1.0");
+        textView.setText("Version 2.0");
 
     }
 
